@@ -1,6 +1,6 @@
 # Korean strings go here for Rails i18n
 ko:
-  graph_activities_name: "Activities Graph"
+  graph_activities_name: "활동 그래프"
   all_activities: "%{start} 에서 %{end} 까지의 활동"
   activities_issue_per_day: "하루당 Issue 활동수"
   activities_repos_per_day: "하루당 저장소에 대한 활동"
