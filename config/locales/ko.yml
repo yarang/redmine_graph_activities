@@ -1,0 +1,13 @@
+# Korean strings go here for Rails i18n
+ko:
+  graph_activities_name: "Activities Graph"
+  all_activities: "%{start} 에서 %{end} 까지의 활동"
+  activities_issue_per_day: "하루당 Issue 활동수"
+  activities_repos_per_day: "하루당 저장소에 대한 활동"
+  act_issue: "Issue 활동"
+  act_repos: "저장소 활동"
+  count: "횟수"
+
+  download_svg_viewer: 만약 그래프를 볼 수 없다면, <a href="http://www.adobe.com/svg/viewer/install/" target="#">SVG Viewer</a>를 설치하하십시요.
+
+  include_subproject: "하위 프로젝트의 활동을 포함하기"
